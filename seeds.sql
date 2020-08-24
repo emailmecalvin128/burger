@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name) VALUES ('Single Burger'),('Double Burger'),('Triple Burger')
